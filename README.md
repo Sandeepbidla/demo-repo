@@ -11,3 +11,7 @@ Learnig Git from yoTube
 ## Local Development 2
 
 1. Open README.md file
+
+## Check remote branch
+
+1. To do the code
